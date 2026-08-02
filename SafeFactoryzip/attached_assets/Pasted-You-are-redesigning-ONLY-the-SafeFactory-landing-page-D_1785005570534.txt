@@ -1,0 +1,505 @@
+You are redesigning ONLY the SafeFactory landing page.
+
+Do NOT modify the dashboard or any internal application pages.
+
+The dashboard already exists and should remain untouched.
+
+Forget the current landing page layout completely.
+
+I want a premium, modern, editorial experience inspired by:
+
+- getnudge.info (main inspiration)
+- Stripe
+- Linear
+- Raycast
+- Vercel
+- Apple product pages
+
+Do NOT copy their layouts.
+Take inspiration from their feeling, pacing, whitespace, typography, animation, and storytelling.
+
+--------------------------------------------------
+GOAL
+--------------------------------------------------
+
+The landing page should feel like a premium enterprise software company.
+
+Visitors should think:
+
+"This is a modern AI platform."
+
+NOT
+
+"This is another SaaS template."
+
+The page must tell a story while scrolling.
+
+Every section should feel different.
+
+Avoid repetitive layouts.
+
+--------------------------------------------------
+VISUAL STYLE
+--------------------------------------------------
+
+Keep the SafeFactory identity.
+
+Background:
+Warm cream.
+
+Accent:
+Soft industrial orange.
+
+Dark sections:
+Deep navy blue.
+
+Never use pure black (#000000).
+
+Use colors similar to:
+
+#071526
+#0B1D35
+#112240
+
+The landing page should smoothly alternate between:
+
+Cream
+
+↓
+
+Navy
+
+↓
+
+Cream
+
+↓
+
+Navy
+
+to create visual rhythm.
+
+Typography:
+
+Elegant serif headings.
+
+Modern sans-serif paragraphs.
+
+Large whitespace.
+
+Minimal.
+
+Premium.
+
+--------------------------------------------------
+NAVBAR
+--------------------------------------------------
+
+The navbar is currently wrong.
+
+I want it inspired by getnudge.info.
+
+Requirements:
+
+• Completely transparent at page load.
+
+• Floating above the content.
+
+• Soft glass effect.
+
+• backdrop-filter blur.
+
+• Thin subtle border.
+
+• Rounded pill shape.
+
+• On scroll:
+background becomes slightly visible while keeping blur.
+
+• Smooth transition.
+
+No white solid rectangle.
+
+--------------------------------------------------
+ANIMATIONS
+--------------------------------------------------
+
+Scrolling should feel alive.
+
+Use Framer Motion.
+
+Every section should animate differently.
+
+Examples:
+
+Fade.
+
+Parallax.
+
+Floating elements.
+
+Image reveal.
+
+Cards lifting slightly.
+
+Text revealing.
+
+Timeline progression.
+
+Do NOT overuse animation.
+
+Everything should feel slow and elegant.
+
+--------------------------------------------------
+VERY IMPORTANT
+--------------------------------------------------
+
+The current landing page still feels like a generic SaaS template.
+
+Do NOT build another template.
+
+Every section must have a different composition.
+
+Avoid repeating:
+
+Title
+
+↓
+
+Cards
+
+↓
+
+Title
+
+↓
+
+Cards
+
+↓
+
+Title
+
+↓
+
+Cards
+
+This pattern should disappear completely.
+
+Some sections should contain no cards at all.
+
+Some sections should be mostly typography.
+
+Some should focus on visuals.
+
+Some should use timelines.
+
+Some should use large dashboard imagery.
+
+--------------------------------------------------
+PAGE STRUCTURE
+--------------------------------------------------
+
+SECTION 1
+
+Large cinematic hero.
+
+Huge typography.
+
+Minimal copy.
+
+Floating dashboard preview.
+
+Animated background.
+
+Subtle particles.
+
+Soft gradients.
+
+Small floating interface elements.
+
+Strong first impression.
+
+--------------------------------------------------
+
+SECTION 2
+
+Saudi Industry Snapshot
+
+DO NOT REMOVE THIS SECTION.
+
+I actually want it.
+
+Keep the statistics.
+
+Redesign them beautifully.
+
+Do NOT place them inside four generic white cards.
+
+Instead use large editorial numbers.
+
+Large typography.
+
+Thin dividers.
+
+Elegant layout.
+
+Animated counting.
+
+Include the official sources below each statistic.
+
+Use ONLY official Saudi sources.
+
+Examples:
+
+Vision 2030
+
+MODON
+
+Ministry of Industry and Mineral Resources
+
+General Authority for Statistics
+
+Never invent statistics.
+
+--------------------------------------------------
+
+SECTION 3
+
+The challenge.
+
+Reactive Maintenance
+
+↓
+
+Proactive Maintenance
+
+Elegant comparison.
+
+Not cards.
+
+Editorial layout.
+
+--------------------------------------------------
+
+SECTION 4
+
+From raw data
+
+to clear decision.
+
+Keep this title.
+
+I really like it.
+
+Make this one of the biggest visual moments.
+
+Below it create an animated workflow:
+
+Equipment
+
+↓
+
+Prediction
+
+↓
+
+Diagnosis
+
+↓
+
+Risk
+
+↓
+
+Priority
+
+↓
+
+Executive Report
+
+Animate every step while scrolling.
+
+--------------------------------------------------
+
+SECTION 5
+
+Dashboard Showcase.
+
+Large almost fullscreen dashboard.
+
+Zoom animation.
+
+Floating callouts.
+
+Highlight different modules.
+
+This should be the visual centerpiece.
+
+--------------------------------------------------
+
+SECTION 6
+
+One platform.
+
+Six modules.
+
+Use elegant expandable accordion.
+
+Not feature cards.
+
+Each module expands beautifully.
+
+Failure Prediction
+
+Failure Diagnosis
+
+Risk Assessment
+
+Maintenance Priority
+
+Maintenance Copilot
+
+Executive Reports
+
+--------------------------------------------------
+
+SECTION 7
+
+Business Impact.
+
+Focus on outcomes.
+
+Not features.
+
+Examples:
+
+Reduce downtime.
+
+Better maintenance planning.
+
+Faster decision making.
+
+Explain benefits clearly.
+
+--------------------------------------------------
+
+SECTION 8
+
+Trust.
+
+Ground everything in facts.
+
+Mention only capabilities that actually exist.
+
+Machine Learning.
+
+Knowledge Base.
+
+Explainable predictions.
+
+Executive reports.
+
+Do NOT invent customers.
+
+Do NOT invent certifications.
+
+Do NOT invent awards.
+
+Do NOT invent metrics.
+
+--------------------------------------------------
+
+SECTION 9
+
+CTA
+
+Minimal.
+
+Large typography.
+
+Beautiful spacing.
+
+One sentence.
+
+One button.
+
+--------------------------------------------------
+CONTENT
+--------------------------------------------------
+
+Rewrite all copy.
+
+Current copy feels generic.
+
+Write like:
+
+Apple
+
+Linear
+
+Stripe
+
+Confident.
+
+Simple.
+
+Premium.
+
+Short.
+
+Avoid repeating:
+
+AI-powered
+
+Smart
+
+Next-generation
+
+Revolutionary
+
+Avoid marketing clichés.
+
+--------------------------------------------------
+TECHNICAL
+--------------------------------------------------
+
+React
+
+Tailwind
+
+Framer Motion
+
+Responsive
+
+Modern animations
+
+High performance
+
+--------------------------------------------------
+FINAL GOAL
+--------------------------------------------------
+
+The experience should feel closer to an award-winning editorial website than a SaaS template.
+
+Use getnudge.info as the benchmark for:
+
+• Navbar behavior
+
+• Scroll storytelling
+
+• Animation pacing
+
+• Whitespace
+
+• Typography
+
+• Calm premium atmosphere
+
+Do NOT copy its content or layout.
+
+Create something original that matches SafeFactory's identity.
+
+Every section should surprise the visitor with a different visual composition.
+
+The landing page should seamlessly transition into the existing dashboard experience.

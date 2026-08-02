@@ -1,0 +1,1 @@
+- [SafeFactory backend architecture](safefactory-backend.md) — 4 real ML models in Python server; frontend is pure API client with no local calculations.

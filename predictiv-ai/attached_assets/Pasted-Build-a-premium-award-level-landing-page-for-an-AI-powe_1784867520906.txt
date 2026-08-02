@@ -1,0 +1,331 @@
+Build a premium award-level landing page for an AI-powered Predictive Maintenance platform designed for industrial equipment.
+
+IMPORTANT:
+Do NOT create a normal SaaS landing page.
+Do NOT use generic fade-in animations.
+The page should feel alive and react continuously to scrolling.
+
+Reference only the interaction philosophy of websites like Active Theory, Cuberto, and Locomotive Studio, but create an original design.
+
+-----------------------------------
+DESIGN STYLE
+-----------------------------------
+
+Minimal.
+Modern.
+Luxury.
+Industrial.
+
+Light theme.
+
+Primary colors:
+White (#FFFFFF)
+Soft Gray (#F7F8FA)
+Deep Blue (#1E40AF)
+Cyan Accent (#38BDF8)
+
+Large spacing.
+Clean typography.
+No visual clutter.
+
+The interface should look like Apple + Stripe + modern industrial software.
+
+-----------------------------------
+SCROLL EXPERIENCE
+-----------------------------------
+
+Scrolling should drive the experience.
+
+Never trigger animations only when entering a section.
+
+Instead every element must move continuously according to scroll progress.
+
+Use:
+
+GSAP ScrollTrigger (scrub:true)
+
+or
+
+Framer Motion useScroll()
+
+Everything should interpolate smoothly.
+
+Use Lenis for smooth scrolling.
+
+-----------------------------------
+SECTION 1
+-----------------------------------
+
+Full screen Hero.
+
+Center a beautiful 3D industrial machine illustration.
+
+Very subtle floating animation.
+
+Behind it:
+animated grid
+soft gradient
+glowing particles.
+
+Headline:
+
+Predict Equipment Failures
+Before They Happen
+
+Subtitle explaining AI predictive maintenance.
+
+CTA button.
+
+As user scrolls:
+
+camera slowly zooms
+
+machine rotates a few degrees
+
+background gradients move
+
+headline scales down smoothly
+
+-----------------------------------
+SECTION 2
+-----------------------------------
+
+Machine Breakdown.
+
+The machine stays pinned.
+
+While scrolling:
+
+different parts of the machine become highlighted.
+
+Hydraulic system
+
+Motor
+
+Cooling
+
+Bearings
+
+Power
+
+Each highlight appears progressively.
+
+A thin animated connection line links each component to an information card.
+
+Cards slide naturally with scroll.
+
+No pop-in animations.
+
+Everything follows scroll progress.
+
+-----------------------------------
+SECTION 3
+-----------------------------------
+
+AI Analysis
+
+Instead of static cards,
+
+create animated flowing data.
+
+Sensor particles travel through animated lines.
+
+Lines connect:
+
+Machine
+
+↓
+
+Sensors
+
+↓
+
+AI Engine
+
+↓
+
+Prediction
+
+↓
+
+Maintenance Recommendation
+
+Particles continuously move.
+
+Numbers count up smoothly.
+
+-----------------------------------
+SECTION 4
+-----------------------------------
+
+Risk Prediction Dashboard
+
+Modern floating dashboard.
+
+Glass cards.
+
+Charts animate with scroll.
+
+Circular health indicator.
+
+Equipment score.
+
+Risk probability.
+
+Estimated maintenance cost.
+
+Everything appears progressively while scrolling.
+
+-----------------------------------
+SECTION 5
+-----------------------------------
+
+Timeline
+
+Horizontal timeline.
+
+As user scrolls vertically,
+
+timeline progresses.
+
+Machine Operating
+
+↓
+
+Early Warning
+
+↓
+
+Risk Detected
+
+↓
+
+Maintenance Scheduled
+
+↓
+
+Failure Prevented
+
+The active stage glows.
+
+-----------------------------------
+SECTION 6
+-----------------------------------
+
+Impact Section
+
+Huge animated numbers.
+
+Reduce Downtime
+
+Reduce Cost
+
+Increase Equipment Lifetime
+
+Numbers count smoothly.
+
+Background has subtle industrial blueprint pattern.
+
+-----------------------------------
+SECTION 7
+-----------------------------------
+
+Final CTA
+
+Minimal.
+
+Large typography.
+
+Background slowly animates.
+
+Floating industrial illustration.
+
+CTA button.
+
+-----------------------------------
+ANIMATIONS
+-----------------------------------
+
+No cheap animations.
+
+Use:
+
+Parallax
+
+Scale interpolation
+
+Rotation interpolation
+
+Blur interpolation
+
+Opacity interpolation
+
+Mask reveal
+
+Clip-path reveal
+
+Text reveal
+
+Continuous transforms
+
+Everything should feel tied directly to scrolling.
+
+-----------------------------------
+MICRO INTERACTIONS
+-----------------------------------
+
+Buttons slightly lift.
+
+Cards tilt.
+
+Hover glow.
+
+Mouse movement creates subtle parallax.
+
+Background gradients slowly move forever.
+
+-----------------------------------
+PERFORMANCE
+-----------------------------------
+
+60 FPS.
+
+Lazy load everything.
+
+No lag.
+
+Animation duration based on scroll distance.
+
+No autoplay videos.
+
+No heavy effects.
+
+-----------------------------------
+TECH STACK
+-----------------------------------
+
+Next.js
+
+React
+
+Tailwind CSS
+
+GSAP ScrollTrigger
+
+Lenis
+
+Framer Motion
+
+TypeScript
+
+Responsive.
+
+Production-ready.
+
+Component based.
+
+Clean architecture.
+
+Professional code.
+
+The final result should look like an Awwwards-quality interactive landing page while remaining minimal, elegant, and suitable for an industrial AI product.

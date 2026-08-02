@@ -1,0 +1,335 @@
+Redesign the SafeFactory landing page following modern SaaS product standards.
+
+IMPORTANT
+
+Do NOT redesign the visual identity.
+
+Keep the existing colors, typography, branding and premium style.
+
+Only improve the product storytelling, information architecture and content.
+
+The landing page must sell the product naturally without exaggeration.
+
+Avoid repetition completely.
+
+Each section must have a unique purpose.
+
+Never explain the same feature twice.
+
+Never list the same modules in multiple sections.
+
+The audience is:
+
+• Plant Managers
+• Maintenance Managers
+• Operations Supervisors
+• Industrial Engineers
+• Factory Executives
+
+They are not AI experts.
+
+Do not use AI buzzwords.
+
+Do not oversell Machine Learning.
+
+Do not make unrealistic claims.
+
+Never claim live IoT if it doesn't exist.
+
+Never mention autonomous decision making.
+
+Always position SafeFactory as a decision-support platform.
+
+--------------------------------------------------
+
+SECTION 1
+
+Hero
+
+Headline:
+
+Move from Reactive Maintenance to Proactive Decisions.
+
+Subheadline:
+
+SafeFactory helps maintenance teams identify equipment failures earlier, understand their causes, assess operational risk, prioritize maintenance activities and generate management-ready reports through one connected workflow.
+
+Primary CTA
+
+Start Analysis
+
+Secondary CTA
+
+See How It Works
+
+Show only three short trust points.
+
+✓ Built for maintenance teams
+
+✓ Decision support, not guesswork
+
+✓ Reports ready for management
+
+--------------------------------------------------
+
+SECTION 2
+
+The Problem
+
+Title
+
+Maintenance decisions shouldn't begin after a breakdown.
+
+Create a comparison between traditional maintenance and SafeFactory.
+
+Traditional
+
+• Reactive inspections
+
+• Multiple disconnected tools
+
+• Technical outputs
+
+• Manual reporting
+
+• Decisions after failures
+
+SafeFactory
+
+• Early failure detection
+
+• Connected workflow
+
+• Plain-language insights
+
+• Automated reporting
+
+• Better maintenance planning
+
+Use a clean comparison layout.
+
+--------------------------------------------------
+
+SECTION 3
+
+How SafeFactory Works
+
+This section explains the workflow ONLY.
+
+Do not explain benefits here.
+
+Create one animated horizontal flow.
+
+Equipment Data
+
+↓
+
+Failure Prediction
+
+↓
+
+Failure Diagnosis
+
+↓
+
+Risk Assessment
+
+↓
+
+Maintenance Priority
+
+↓
+
+Maintenance Copilot
+
+↓
+
+Executive Report
+
+Each step opens a small preview when hovered.
+
+--------------------------------------------------
+
+SECTION 4
+
+Why SafeFactory
+
+Do NOT list modules again.
+
+Instead explain what makes the workflow valuable.
+
+Create four cards.
+
+Explain
+
+Understand why failures happen, not only that they may happen.
+
+Prioritize
+
+Focus maintenance resources where they create the highest operational value.
+
+Guide
+
+Help maintenance teams with clear recommendations grounded in maintenance documentation.
+
+Communicate
+
+Generate executive-ready reports that simplify operational communication.
+
+This section is about VALUE.
+
+Not FEATURES.
+
+--------------------------------------------------
+
+SECTION 5
+
+Who Uses SafeFactory
+
+Show user personas.
+
+Plant Manager
+
+Maintenance Manager
+
+Operations Supervisor
+
+Industrial Engineer
+
+Reliability Engineer
+
+Instead of describing the person,
+
+describe the decision they make using SafeFactory.
+
+--------------------------------------------------
+
+SECTION 6
+
+Platform Preview
+
+Show only one interactive preview.
+
+Sidebar:
+
+Overview
+
+Prediction
+
+Diagnosis
+
+Risk
+
+Priority
+
+Copilot
+
+Report
+
+Clicking changes the preview.
+
+Do not repeat explanations already shown.
+
+This section only demonstrates the interface.
+
+--------------------------------------------------
+
+SECTION 7
+
+Built on Data You Can Trust
+
+This section should improve credibility.
+
+Do not invent numbers.
+
+Do not invent customers.
+
+Do not invent factories.
+
+Suggested text:
+
+SafeFactory combines historical maintenance datasets, operational conditions, risk assessment models and maintenance documentation to support maintenance decisions.
+
+The platform is designed to assist maintenance professionals by organizing complex information into clear recommendations.
+
+Avoid words such as:
+
+world-leading
+
+revolutionary
+
+industry-leading
+
+best
+
+most accurate
+
+real-time
+
+live factory
+
+unless they are actually supported.
+
+--------------------------------------------------
+
+SECTION 8
+
+Final CTA
+
+Headline
+
+Better maintenance decisions start before failures do.
+
+Text
+
+SafeFactory connects prediction, diagnosis, risk assessment and maintenance planning into one continuous workflow that helps maintenance teams act with confidence.
+
+Buttons
+
+Start Analysis
+
+Explore Platform
+
+--------------------------------------------------
+
+FOOTER
+
+Built for modern industrial maintenance.
+
+Decision support powered by historical operational data, maintenance intelligence and documented maintenance knowledge.
+
+--------------------------------------------------
+
+GENERAL RULES
+
+Remove all repeated content.
+
+Never explain the same module twice.
+
+Each section should answer only one question:
+
+Hero → Why should I care?
+
+Problem → Why is the current approach insufficient?
+
+Workflow → How does it work?
+
+Why SafeFactory → Why is this approach better?
+
+Who Uses It → Who benefits?
+
+Platform → What does the product look like?
+
+Trust → Why should I believe it?
+
+CTA → What should I do next?
+
+Keep the page minimal.
+
+Increase whitespace.
+
+Use subtle animations.
+
+Avoid long paragraphs.
+
+The final landing page should feel like a real enterprise SaaS product rather than a university project.

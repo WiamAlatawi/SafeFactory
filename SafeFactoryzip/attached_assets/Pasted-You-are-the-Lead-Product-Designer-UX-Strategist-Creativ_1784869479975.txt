@@ -1,0 +1,630 @@
+You are the Lead Product Designer, UX Strategist, Creative Director and Senior Frontend Engineer for SafeFactory.
+
+Your mission is NOT to redesign the product.
+
+Your mission is to transform SafeFactory into an enterprise-grade AI platform that looks like a real startup product used by industrial companies.
+
+The current application already contains all major modules.
+
+Keep the architecture.
+
+Improve the product experience.
+
+Never change the core functionality.
+
+--------------------------------------------------------
+PRODUCT VISION
+--------------------------------------------------------
+
+SafeFactory is an AI-powered Maintenance Intelligence Platform.
+
+It helps maintenance teams move from reactive maintenance to proactive decision making.
+
+It does NOT replace engineers.
+
+It supports maintenance decisions.
+
+Everything should communicate trust, clarity and professionalism.
+
+The audience is NOT AI engineers.
+
+The audience is
+
+• Plant Managers
+• Maintenance Managers
+• Operations Supervisors
+• Production Managers
+• Factory Executives
+
+Assume the user has zero knowledge of Machine Learning.
+
+Never expose technical AI terminology unless necessary.
+
+Never make unrealistic claims.
+
+The interface should feel like
+
+Apple Enterprise
+
+Linear
+
+Stripe Dashboard
+
+Vercel
+
+Notion AI
+
+Microsoft Copilot
+
+Palantir Foundry
+
+--------------------------------------------------------
+GENERAL DESIGN PRINCIPLES
+--------------------------------------------------------
+
+Less text.
+
+More visual hierarchy.
+
+Large whitespace.
+
+Premium typography.
+
+Glassmorphism only where appropriate.
+
+Soft shadows.
+
+Subtle gradients.
+
+Smooth animations.
+
+No flashy effects.
+
+Everything must feel expensive.
+
+Animations should be meaningful.
+
+Numbers should count upward.
+
+Charts animate progressively.
+
+Cards fade upward.
+
+Buttons have soft hover effects.
+
+Progress bars animate.
+
+Timeline animates.
+
+Graphs draw themselves.
+
+Pages transition smoothly.
+
+Loading states should simulate AI reasoning.
+
+Example:
+
+Analyzing equipment...
+
+Comparing historical operating patterns...
+
+Evaluating operational risk...
+
+Generating maintenance recommendations...
+
+Preparing executive report...
+
+Do NOT instantly display results.
+
+Create anticipation.
+
+--------------------------------------------------------
+LANDING PAGE
+--------------------------------------------------------
+
+Completely redesign the landing page while keeping the same product.
+
+The landing page must sell outcomes.
+
+NOT AI.
+
+NOT Machine Learning.
+
+NOT Algorithms.
+
+Hero section:
+
+Headline:
+
+Predict equipment failures before they become costly downtime.
+
+Subtitle:
+
+SafeFactory helps maintenance teams detect equipment failures early, understand their causes, assess operational risk, prioritize maintenance and generate executive-ready reports — all in one intelligent platform.
+
+Primary button
+
+Start Analysis
+
+Secondary button
+
+Watch Demo
+
+Background:
+
+Very subtle animated industrial blueprint.
+
+Moving grid.
+
+Soft particles.
+
+Minimal glowing lines.
+
+No heavy illustrations.
+
+--------------------------------------------------------
+
+SECTION
+
+The Maintenance Decision Journey
+
+Create an animated horizontal flow.
+
+Predict
+
+↓
+
+Diagnose
+
+↓
+
+Assess Risk
+
+↓
+
+Prioritize
+
+↓
+
+Guide
+
+↓
+
+Report
+
+Each step animates while scrolling.
+
+--------------------------------------------------------
+
+SECTION
+
+Why SafeFactory
+
+Create six premium cards.
+
+Predict Failures
+
+Identify failure patterns before unexpected downtime.
+
+Explain Root Causes
+
+Understand why equipment is failing.
+
+Assess Risk
+
+Combine operational and environmental conditions into one interpretable score.
+
+Prioritize Maintenance
+
+Focus resources where they create the highest operational value.
+
+Guide Maintenance Teams
+
+Provide maintenance recommendations in plain language.
+
+Generate Executive Reports
+
+Turn AI insights into management-ready reports instantly.
+
+--------------------------------------------------------
+
+SECTION
+
+Who Uses SafeFactory
+
+Factory Managers
+
+Maintenance Teams
+
+Operations Leaders
+
+Industrial Engineers
+
+Reliability Engineers
+
+Each card contains minimal illustration.
+
+--------------------------------------------------------
+
+SECTION
+
+Platform Modules
+
+Interactive animated cards.
+
+Hover expands.
+
+Each module opens a preview.
+
+Overview
+
+Prediction
+
+Diagnosis
+
+Risk
+
+Priority
+
+Copilot
+
+Executive Report
+
+--------------------------------------------------------
+
+SECTION
+
+Why Companies Choose SafeFactory
+
+Instead of
+
+"We use AI"
+
+Use
+
+One connected maintenance workflow.
+
+Decision support instead of isolated predictions.
+
+Operational context.
+
+Business-focused insights.
+
+Simple explanations.
+
+Executive-ready reporting.
+
+--------------------------------------------------------
+
+SECTION
+
+Footer
+
+Add
+
+Built for modern industrial maintenance.
+
+Decision support powered by historical operational data and maintenance intelligence.
+
+--------------------------------------------------------
+OVERVIEW PAGE
+--------------------------------------------------------
+
+Rename Welcome Back
+
+to
+
+Today's Maintenance Summary
+
+Show
+
+Assets Requiring Review
+
+Maintenance Actions
+
+Fleet Health
+
+Operational Status
+
+Small summary at top.
+
+Example
+
+2 assets require inspection today.
+
+No immediate shutdown risks detected.
+
+One maintenance recommendation generated.
+
+Add smooth animated charts.
+
+--------------------------------------------------------
+FAILURE PREDICTION
+--------------------------------------------------------
+
+Rename
+
+Failure Likelihood
+
+to
+
+Estimated Failure Risk
+
+Rename
+
+Critical
+
+to
+
+Requires Immediate Review
+
+Show
+
+Confidence
+
+Historical Similarity
+
+Detected Pattern
+
+Contributing Factors
+
+Instead of showing only
+
+99%
+
+Explain
+
+High operating torque
+
+Elevated tool wear
+
+Pattern similarity
+
+Display AI reasoning visually.
+
+--------------------------------------------------------
+FAILURE DIAGNOSIS
+--------------------------------------------------------
+
+Transform into a story.
+
+Timeline
+
+Detected
+
+↓
+
+Diagnosis
+
+↓
+
+Impact
+
+↓
+
+Recommendation
+
+↓
+
+Expected Outcome
+
+Show root cause visually.
+
+Show affected components.
+
+Display estimated downtime.
+
+Display estimated maintenance cost.
+
+Show confidence.
+
+--------------------------------------------------------
+RISK ASSESSMENT
+--------------------------------------------------------
+
+Keep environmental analysis.
+
+Show contribution.
+
+Mechanical
+
+Electrical
+
+Environmental
+
+Operational
+
+Each has percentage contribution.
+
+Show 14-day trend.
+
+Explain why risk increased.
+
+--------------------------------------------------------
+MAINTENANCE PRIORITY
+--------------------------------------------------------
+
+Add
+
+Why This Recommendation
+
+Example
+
+Increasing failure probability
+
+High operational impact
+
+Maintenance window available
+
+Estimated financial loss if delayed
+
+Display
+
+Do Today
+
+Do This Week
+
+Monitor
+
+Instead of generic priority.
+
+--------------------------------------------------------
+AI ASSISTANT
+--------------------------------------------------------
+
+Rename
+
+Knowledge Assistant
+
+to
+
+Maintenance Copilot
+
+This is NOT ChatGPT.
+
+It is a maintenance expert.
+
+Provide suggested prompts.
+
+Explain this failure
+
+Show repair procedure
+
+Required spare parts
+
+Safety precautions
+
+Prevent future failures
+
+Summarize for manager
+
+Answer using maintenance documentation.
+
+Always cite source document.
+
+--------------------------------------------------------
+EXECUTIVE REPORT
+--------------------------------------------------------
+
+Redesign as executive briefing.
+
+Top section
+
+Decision Summary
+
+Machine Status
+
+Risk
+
+Priority
+
+Estimated Cost
+
+Expected Downtime
+
+Recommended Action
+
+Below
+
+Detailed Findings
+
+Root Cause
+
+Risk Factors
+
+Maintenance Plan
+
+Business Impact
+
+Recommendations
+
+Export
+
+PDF
+
+--------------------------------------------------------
+MICROINTERACTIONS
+--------------------------------------------------------
+
+Animate everything subtly.
+
+Cards lift.
+
+Charts animate.
+
+Icons rotate slightly.
+
+Buttons glow softly.
+
+Hover reveals details.
+
+Skeleton loading.
+
+Progressive number animation.
+
+Timeline animation.
+
+Smooth page transitions.
+
+--------------------------------------------------------
+VISUAL STYLE
+--------------------------------------------------------
+
+Minimal.
+
+Enterprise.
+
+Premium.
+
+Clean.
+
+Trustworthy.
+
+Modern.
+
+Industrial.
+
+Sophisticated.
+
+No gaming effects.
+
+No excessive neon.
+
+No unnecessary gradients.
+
+Everything should feel production-ready.
+
+--------------------------------------------------------
+COPYWRITING STYLE
+--------------------------------------------------------
+
+Use business language.
+
+Avoid AI buzzwords.
+
+Avoid technical jargon.
+
+Explain everything simply.
+
+Every recommendation must answer
+
+What happened?
+
+Why?
+
+What should I do next?
+
+What happens if I ignore it?
+
+--------------------------------------------------------
+IMPORTANT
+
+Never exaggerate AI capabilities.
+
+Never claim live IoT unless data exists.
+
+Never claim autonomous decision making.
+
+Always position SafeFactory as an AI-powered decision support platform that helps maintenance professionals make faster and more informed decisions.
+
+The final product should feel like software a manufacturing company would actually purchase.

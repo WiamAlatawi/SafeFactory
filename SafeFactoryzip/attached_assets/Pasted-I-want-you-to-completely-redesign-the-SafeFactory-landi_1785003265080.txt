@@ -1,0 +1,146 @@
+I want you to completely redesign the SafeFactory landing page.
+
+Do NOT reuse the existing HTML layout, sections, spacing, or components.
+
+Treat the current landing page only as a source of branding (logo, colors, product identity), not as a design reference.
+
+The primary inspiration is:
+https://getnudge.info/
+
+Do NOT copy its layout or assets.
+
+Instead, study its design philosophy:
+
+• Calm premium feeling
+• Beautiful storytelling while scrolling
+• Smooth section transitions
+• Transparent blurred navigation
+• Cinematic motion
+• Large whitespace
+• Elegant typography
+• Soft gradients
+• Layered backgrounds
+• Minimal but rich experience
+
+The final result should feel like a modern AI enterprise product.
+
+Keep SafeFactory's existing color palette so it still feels like the same brand, but rebuild the entire visual language from scratch.
+
+I want a completely new design system inspired by premium websites like:
+
+• getnudge
+• Vercel
+• Linear
+• Stripe
+
+The landing page should feel luxurious, minimal, modern and highly interactive.
+
+Avoid looking like a traditional industrial website.
+
+Instead, combine enterprise SaaS design with subtle industrial inspiration.
+
+Use:
+
+• Framer Motion
+• GSAP ScrollTrigger
+• Backdrop Blur
+• Parallax scrolling
+• Micro interactions
+• Smooth opacity transitions
+• Floating elements
+• Animated SVG backgrounds
+• Mouse movement effects where appropriate
+
+Animations should be subtle and premium, never distracting.
+
+Avoid:
+- Generic SaaS illustrations
+- Cartoon graphics
+- Lottie animations
+- Heavy 3D scenes
+- Video backgrounds
+- Copying getnudge's layout
+
+Instead, create an original experience.
+
+The scrolling should tell a story.
+
+The user should gradually discover SafeFactory.
+
+Suggested flow:
+
+Hero
+
+↓
+
+How SafeFactory Works
+
+↓
+
+Platform Modules
+
+↓
+
+Dashboard Showcase
+
+↓
+
+Business Benefits
+
+↓
+
+Technology
+
+↓
+
+Call to Action
+
+↓
+
+Premium Footer
+
+The footer should be cinematic.
+
+Instead of trees like getnudge, use an abstract industrial power-grid inspired scene:
+
+• Transmission towers
+• Electrical substations
+• Sensor network lines
+• Soft fog
+• Small glowing particles
+• Blue ambient lighting
+• Animated grid lines
+
+Everything should remain minimal and elegant.
+
+Very important:
+
+Do not invent product capabilities.
+
+Every statement must match the existing SafeFactory platform.
+
+Only use features that already exist:
+
+• Failure Prediction
+• Failure Diagnosis
+• Risk Assessment
+• Maintenance Priority
+• AI Maintenance Copilot
+• Executive Reports
+
+Do not add unsupported AI claims or statistics.
+
+The final landing page should feel like a world-class enterprise AI product rather than a student project.
+
+Focus heavily on:
+
+- Motion Design
+- Visual hierarchy
+- Premium typography
+- Whitespace
+- Smooth scrolling
+- Accessibility
+- Responsiveness
+- Performance
+
+The landing page should naturally connect with the dashboard pages while having a much higher-end marketing experience.

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Diamond (rotated square, sharp corners) -->
+  <rect x="17" y="17" width="66" height="66" fill="none" stroke="#14181D" stroke-width="5" transform="rotate(45 50 50)"/>
+  <!-- Gold centre dot -->
+  <circle cx="50" cy="50" r="10" fill="#E2812C"/>
+</svg>

@@ -1,0 +1,406 @@
+Redesign the ENTIRE SafeFactory application using a premium Glassmorphism design system.
+
+This is NOT a redesign of only the landing page.
+
+Apply the same design language consistently across:
+
+• Landing Page
+• Dashboard
+• Failure Prediction
+• Failure Diagnosis
+• Risk Assessment
+• Maintenance Priority
+• Maintenance Copilot
+• Executive Report
+• Navigation
+• Modals
+• Cards
+• Tables
+• Forms
+• Charts
+• Settings
+
+The experience should feel like one premium product from beginning to end.
+
+====================================================
+
+DESIGN STYLE
+
+Inspired by:
+
+• Apple
+• Arc Browser
+• Linear
+• Raycast
+• Nudge (getnudge.info)
+• Vercel
+• Stripe
+• Framer
+
+Do NOT copy any website.
+
+Instead combine their design principles.
+
+====================================================
+
+OVERALL FEELING
+
+The interface should feel:
+
+premium
+
+minimal
+
+future-ready
+
+calm
+
+professional
+
+intelligent
+
+high-end SaaS
+
+luxury industrial software
+
+Everything should feel smooth and expensive.
+
+====================================================
+
+COLOR PALETTE
+
+Keep the SafeFactory brand colors.
+
+Warm off-white background
+
+Soft navy accents
+
+Orange highlights
+
+No pure white
+
+No pure black
+
+Primary background:
+#F7F4EE
+
+Secondary:
+#F2EEE6
+
+Cards:
+rgba(255,255,255,0.55)
+
+Borders:
+rgba(255,255,255,0.22)
+
+Text:
+#0F172A
+
+Accent:
+#D97706
+
+Dark sections:
+#071826
+
+Avoid harsh contrast.
+
+====================================================
+
+GLASSMORPHISM
+
+Glass is a key part of the design.
+
+Use:
+
+backdrop-filter: blur(24px)
+
+background:
+rgba(255,255,255,0.55)
+
+soft borders
+
+multiple translucent layers
+
+floating cards
+
+glass navigation
+
+glass sidebar
+
+glass dropdowns
+
+glass dialogs
+
+glass widgets
+
+soft shadows
+
+Do NOT overuse blur.
+
+Use it naturally.
+
+====================================================
+
+NAVBAR
+
+Sticky
+
+Transparent
+
+Backdrop blur
+
+Smooth opacity changes while scrolling
+
+Rounded
+
+Floating
+
+Like Apple + Nudge.
+
+====================================================
+
+ANIMATIONS
+
+Everything must animate smoothly.
+
+Use:
+
+Framer Motion
+
+or GSAP
+
+Animations should include:
+
+fade
+
+slide
+
+blur reveal
+
+scale
+
+stagger
+
+parallax
+
+scroll progress
+
+hover lift
+
+magnetic buttons
+
+soft glowing effects
+
+Never use aggressive animations.
+
+Everything should feel elegant.
+
+====================================================
+
+SCROLL
+
+Scrolling should feel alive.
+
+Hero elements move slightly.
+
+Background gradients shift slowly.
+
+Cards reveal progressively.
+
+Statistics count smoothly.
+
+Sections fade naturally.
+
+Images move at different speeds.
+
+====================================================
+
+CARDS
+
+Large rounded corners
+
+Glass
+
+Soft shadow
+
+Hover elevation
+
+Gradient border
+
+Subtle reflection
+
+====================================================
+
+BUTTONS
+
+Rounded
+
+Glass
+
+Soft glow
+
+Ripple
+
+Micro interaction
+
+====================================================
+
+INPUTS
+
+Glass input fields
+
+Blur background
+
+Animated focus
+
+Soft glow
+
+====================================================
+
+TABLES
+
+Modern
+
+Glass rows
+
+Sticky headers
+
+Hover highlight
+
+Rounded containers
+
+====================================================
+
+CHARTS
+
+Glass containers
+
+Minimal axes
+
+Soft gradients
+
+Modern typography
+
+====================================================
+
+DASHBOARD
+
+The dashboard should feel like a premium operating center.
+
+Floating widgets
+
+Layered cards
+
+Glass navigation
+
+Animated metrics
+
+Smooth transitions
+
+====================================================
+
+LANDING PAGE
+
+The landing page should feel premium.
+
+Hero with layered glass elements.
+
+Large typography.
+
+Beautiful whitespace.
+
+Animated industrial illustrations.
+
+Soft gradients.
+
+Scroll storytelling.
+
+Every section should smoothly lead into the next.
+
+====================================================
+
+BACKGROUND
+
+Use multiple layers.
+
+Noise texture.
+
+Very subtle animated gradients.
+
+Large blurred circles.
+
+Light particles.
+
+No busy background.
+
+====================================================
+
+TYPOGRAPHY
+
+Elegant serif headlines
+
+Modern sans-serif body
+
+Large spacing
+
+Comfortable reading
+
+====================================================
+
+ICONS
+
+Minimal
+
+Outlined
+
+Thin strokes
+
+Orange accents
+
+====================================================
+
+MICRO INTERACTIONS
+
+Everything reacts.
+
+Buttons
+
+Cards
+
+Inputs
+
+Navigation
+
+Charts
+
+Tabs
+
+Menus
+
+Tooltips
+
+====================================================
+
+TRANSITIONS
+
+Nothing should appear instantly.
+
+Everything fades.
+
+Everything slides.
+
+Everything feels connected.
+
+====================================================
+
+IMPORTANT
+
+Do NOT redesign functionality.
+
+Do NOT remove existing features.
+
+Do NOT simplify the platform.
+
+Only redesign the user experience while keeping all functionality intact.
+
+The final result should look like a premium SaaS product that could realistically compete with Apple, Linear, Arc Browser, and modern AI startups.

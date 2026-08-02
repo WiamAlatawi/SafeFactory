@@ -1,0 +1,372 @@
+Forget the current landing page structure completely.
+
+Do NOT iterate on the existing page.
+
+I want a completely new premium landing page inspired by modern editorial storytelling websites like:
+
+- getnudge.info
+- Linear.app
+- Stripe
+- Raycast
+- Vercel
+- Resend
+- Arc Browser
+
+The dashboard pages already exist.
+DO NOT modify anything inside the application.
+
+Your task is ONLY redesigning the public landing page.
+
+----------------------------------
+
+DESIGN GOAL
+
+The page should feel calm,
+premium,
+minimal,
+expensive,
+editorial,
+and cinematic.
+
+The experience should feel like scrolling through a product story instead of reading documentation.
+
+I DO NOT want cards stacked everywhere.
+
+Avoid generic SaaS layouts.
+
+Avoid Bootstrap feeling.
+
+Avoid feature grids that repeat the same pattern.
+
+----------------------------------
+
+VISUAL STYLE
+
+Keep the current SafeFactory colors.
+
+Cream background.
+
+Soft orange accent.
+
+Dark dashboard.
+
+Lots of whitespace.
+
+Elegant serif headlines.
+
+Modern sans-serif body text.
+
+Rounded corners.
+
+Soft shadows.
+
+Glass navbar.
+
+Blur effects.
+
+Organic spacing.
+
+Subtle gradients.
+
+Hairline borders.
+
+No bright colors.
+
+----------------------------------
+
+SCROLL EXPERIENCE
+
+Scrolling should feel alive.
+
+Use Framer Motion animations.
+
+Sections should fade naturally.
+
+Content should move slowly.
+
+Small parallax movement.
+
+Image reveals.
+
+Cards should slightly lift while entering.
+
+Text should reveal progressively.
+
+Navbar should stay transparent and blurred.
+
+Everything should feel smooth.
+
+Nothing should suddenly appear.
+
+----------------------------------
+
+VERY IMPORTANT
+
+This is NOT a dashboard.
+
+This is NOT documentation.
+
+This is NOT a feature list.
+
+This is a product story.
+
+Every section should answer one question.
+
+Why?
+
+How?
+
+What changes?
+
+Why trust it?
+
+What happens next?
+
+----------------------------------
+
+PAGE FLOW
+
+1.
+
+Large cinematic hero.
+
+Very little text.
+
+Large typography.
+
+Floating dashboard preview.
+
+Animated background.
+
+Small floating UI elements.
+
+Subtle moving particles.
+
+2.
+
+The maintenance problem.
+
+Instead of paragraphs...
+
+Create an editorial comparison.
+
+Reactive Maintenance
+
+↓
+
+Proactive Maintenance
+
+with elegant animation.
+
+3.
+
+A visual journey.
+
+Instead of six feature cards...
+
+Create one horizontal timeline.
+
+Equipment
+
+↓
+
+Prediction
+
+↓
+
+Diagnosis
+
+↓
+
+Risk
+
+↓
+
+Priority
+
+↓
+
+Executive Report
+
+Animate every step while scrolling.
+
+4.
+
+Dashboard showcase.
+
+Large.
+
+Almost fullscreen.
+
+Animate zoom.
+
+Floating metrics.
+
+Callouts pointing at different modules.
+
+This should be the visual highlight.
+
+5.
+
+Decision intelligence.
+
+Instead of listing modules...
+
+Create expandable elegant sections.
+
+Each module opens beautifully.
+
+Failure Prediction
+
+Failure Diagnosis
+
+Risk
+
+Priority
+
+Copilot
+
+Reports
+
+6.
+
+Business impact.
+
+Instead of saying features...
+
+Explain outcomes.
+
+Less downtime.
+
+Better prioritization.
+
+Clear maintenance decisions.
+
+Simple typography.
+
+Large numbers.
+
+Large whitespace.
+
+7.
+
+Trust section.
+
+Ground everything in facts.
+
+Mention only things that actually exist inside SafeFactory.
+
+Mention:
+
+Machine Learning
+
+Explainable Predictions
+
+Knowledge Base
+
+Executive Reporting
+
+No fake claims.
+
+No fake certifications.
+
+No fake customer logos.
+
+No fake numbers.
+
+If statistics are shown they MUST come from official sources only.
+
+If no source exists,
+do not invent anything.
+
+8.
+
+Final CTA.
+
+Huge typography.
+
+Minimal.
+
+Beautiful.
+
+One sentence.
+
+One button.
+
+----------------------------------
+
+CONTENT
+
+Rewrite every sentence.
+
+The current copy feels generic.
+
+Avoid marketing clichés.
+
+Avoid "AI-powered" every paragraph.
+
+Write like Apple.
+
+Write like Linear.
+
+Write like Stripe.
+
+Short.
+
+Confident.
+
+Elegant.
+
+Readable.
+
+----------------------------------
+
+WHAT TO REMOVE
+
+No repetitive cards.
+
+No documentation feeling.
+
+No giant feature grids.
+
+No icon spam.
+
+No unnecessary borders.
+
+No corporate stock design.
+
+----------------------------------
+
+TECHNICAL
+
+React.
+
+Tailwind.
+
+Framer Motion.
+
+Responsive.
+
+High performance.
+
+Lazy animations.
+
+No animation libraries besides Framer Motion.
+
+----------------------------------
+
+FINAL GOAL
+
+When someone opens the page they should think:
+
+"This feels like a premium software company."
+
+NOT
+
+"This feels like a university graduation project."
+
+Take your time.
+
+Redesign everything from scratch.
+
+Keep only the SafeFactory branding and colors.

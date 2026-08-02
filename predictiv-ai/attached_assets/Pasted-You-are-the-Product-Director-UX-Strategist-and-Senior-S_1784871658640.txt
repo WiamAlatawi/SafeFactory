@@ -1,0 +1,438 @@
+You are the Product Director, UX Strategist and Senior SaaS Copywriter for SafeFactory.
+
+Your task is to redesign the landing page into a world-class enterprise SaaS website.
+
+DO NOT redesign the branding.
+
+DO NOT change the color palette.
+
+DO NOT change typography.
+
+DO NOT change the visual identity.
+
+Only improve:
+
+• Storytelling
+• Information Architecture
+• UX
+• Copywriting
+• Content hierarchy
+
+The final result should feel similar to Stripe, Linear, Palantir, Notion, Vercel and Siemens Industrial software.
+
+------------------------------------------------------------
+
+CRITICAL REQUIREMENTS
+
+The landing page must tell ONE continuous story.
+
+Every section has ONE purpose only.
+
+Never repeat information.
+
+Never explain the same feature twice.
+
+Never list platform modules multiple times.
+
+If a concept has already been introduced, later sections must build on it instead of repeating it.
+
+The final page should feel concise, premium and highly credible.
+
+------------------------------------------------------------
+
+SECTION 1
+
+HERO
+
+Question answered:
+
+Why should I care?
+
+Headline
+
+Move from Reactive Maintenance to Proactive Decisions.
+
+Subheadline
+
+Focus on the business transformation.
+
+Do NOT explain the platform.
+
+Maximum two sentences.
+
+Primary CTA
+
+Start Analysis
+
+Secondary CTA
+
+Explore Platform
+
+Show three trust badges only.
+
+Built for Maintenance Teams
+
+Explainable Recommendations
+
+Decision Support, Not Automation
+
+------------------------------------------------------------
+
+SECTION 2
+
+INDUSTRY SNAPSHOT
+
+Question answered:
+
+Why does this problem matter?
+
+Completely replace the current "Problem" section.
+
+Research and use REAL statistics from OFFICIAL Saudi sources.
+
+Preferred sources:
+
+• Saudi General Authority for Statistics (GASTAT)
+
+• Ministry of Industry and Mineral Resources
+
+• Saudi Vision 2030
+
+• Future Factories Program
+
+• MODON
+
+• National Industrial Development Center
+
+• DataSaudi
+
+Do not invent numbers.
+
+Every statistic must display its source.
+
+Find statistics related to:
+
+• Manufacturing growth
+
+• Number of factories
+
+• Industrial expansion
+
+• Industrial production
+
+• Digital transformation
+
+• Smart manufacturing
+
+• Industry 4.0
+
+• Factory modernization
+
+After the statistics write ONE sentence only:
+
+"As Saudi Arabia's industrial sector continues to expand, maintenance decisions become increasingly critical to operational continuity."
+
+Nothing else.
+
+------------------------------------------------------------
+
+SECTION 3
+
+THE CHALLENGE
+
+Question answered:
+
+Why should maintenance evolve?
+
+Create a comparison.
+
+Traditional Maintenance
+
+vs
+
+Modern Maintenance Decision Support
+
+Compare workflows only.
+
+Never mention SafeFactory.
+
+Never mention features.
+
+Topics:
+
+Reactive maintenance
+
+Time-based maintenance
+
+Disconnected information
+
+Manual prioritization
+
+Technical complexity
+
+versus
+
+Proactive planning
+
+Connected workflows
+
+Risk-informed prioritization
+
+Clear operational insights
+
+Business-ready communication
+
+------------------------------------------------------------
+
+SECTION 4
+
+INTRODUCING SAFEFACTORY
+
+Question answered:
+
+What is SafeFactory?
+
+One short paragraph.
+
+Maximum 70 words.
+
+Do NOT list modules.
+
+Do NOT explain workflow.
+
+Simply explain what the platform exists to achieve.
+
+------------------------------------------------------------
+
+SECTION 5
+
+ONE CONNECTED WORKFLOW
+
+Question answered:
+
+How does it work?
+
+Display ONLY this workflow.
+
+Equipment Data
+
+↓
+
+Failure Prediction
+
+↓
+
+Failure Diagnosis
+
+↓
+
+Risk Assessment
+
+↓
+
+Maintenance Priority
+
+↓
+
+Maintenance Copilot
+
+↓
+
+Executive Report
+
+No descriptions.
+
+No repeated marketing copy.
+
+Only the workflow.
+
+------------------------------------------------------------
+
+SECTION 6
+
+FROM ANALYSIS TO ACTION
+
+Question answered:
+
+Why is this workflow valuable?
+
+Do NOT repeat workflow.
+
+Do NOT repeat modules.
+
+Show only outcomes.
+
+Four cards.
+
+Earlier Maintenance Planning
+
+Better Maintenance Prioritization
+
+Clear Communication Across Teams
+
+Faster Operational Decisions
+
+One sentence each.
+
+------------------------------------------------------------
+
+SECTION 7
+
+ONE ANALYSIS.
+MULTIPLE DECISIONS.
+
+This should become the signature section.
+
+Instead of showing separate modules,
+
+display one equipment analysis screen.
+
+Place interactive indicators on top of the interface.
+
+Failure Risk
+
+Root Cause
+
+Risk Score
+
+Maintenance Priority
+
+AI Guidance
+
+Executive Report
+
+Below write:
+
+"A single equipment analysis generates multiple decision-ready insights, helping maintenance teams move from data to action without switching between disconnected tools."
+
+------------------------------------------------------------
+
+SECTION 8
+
+WHO USES SAFEFACTORY
+
+Question answered:
+
+Who benefits?
+
+Plant Manager
+
+Maintenance Manager
+
+Operations Supervisor
+
+Industrial Engineer
+
+Reliability Engineer
+
+Do NOT describe the person.
+
+Describe only the maintenance decision each role makes.
+
+------------------------------------------------------------
+
+SECTION 9
+
+WHY TRUST SAFEFACTORY
+
+Question answered:
+
+Why should I trust it?
+
+Mention only things supported by the project.
+
+Historical maintenance datasets.
+
+Operational equipment data.
+
+Risk assessment models.
+
+Maintenance knowledge base.
+
+Explainable recommendations.
+
+Decision support.
+
+Never claim:
+
+Real-time IoT
+
+Autonomous AI
+
+Enterprise customers
+
+Live factory integrations
+
+Industry-leading accuracy
+
+unless actually implemented.
+
+------------------------------------------------------------
+
+SECTION 10
+
+ALIGNMENT WITH SAUDI VISION 2030
+
+Question answered:
+
+Why is this relevant now?
+
+Research Saudi Vision 2030.
+
+Research the Future Factories Program.
+
+Research industrial digital transformation initiatives.
+
+Write one concise section explaining how SafeFactory naturally aligns with Saudi Arabia's industrial transformation by supporting smarter maintenance planning, operational efficiency and data-driven decision making.
+
+Do NOT imply endorsement.
+
+Do NOT imply partnership.
+
+Do NOT imply government approval.
+
+------------------------------------------------------------
+
+SECTION 11
+
+FINAL CTA
+
+Headline
+
+Better maintenance decisions start before failures do.
+
+Short paragraph.
+
+Buttons
+
+Start Analysis
+
+Explore Platform
+
+------------------------------------------------------------
+
+GLOBAL COPYWRITING RULES
+
+No repetition.
+
+No hype.
+
+No buzzwords.
+
+No fake statistics.
+
+No fake case studies.
+
+No fake testimonials.
+
+No fake customers.
+
+No unsupported claims.
+
+Every section must answer one unique question.
+
+Before generating the page, audit all sections.
+
+If any two sections communicate the same idea, merge or rewrite them until every section has a unique purpose.
+
+The final landing page should feel like a real enterprise software company serving industrial organizations, not a university project.
